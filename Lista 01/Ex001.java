@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+/* Faça um programa que receba dois números, calcule e mostre a subtração do primeiro pelo segundo. */
+
 public class Ex001 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
