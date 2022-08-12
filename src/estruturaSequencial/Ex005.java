@@ -1,3 +1,5 @@
+package estruturaSequencial;
+
 import java.util.Scanner;
     /*Faça um programa que receba duas notas, calcule e mostre a média ponderada das notas, considerando peso 2 para a primeira nota e peso 3 para a segunda nota. */
 public class Ex005 {

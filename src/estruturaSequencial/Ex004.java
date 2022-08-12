@@ -1,3 +1,5 @@
+package estruturaSequencial;
+
 import java.util.Scanner;
     /*Faça um programa que receba duas notas, calcule e mostre a média aritmética das notas. */
 public class Ex004 {

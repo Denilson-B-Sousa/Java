@@ -1,3 +1,5 @@
+package estruturaSequencial;
+
 import java.util.Scanner;
 
 /* Faça um programa que receba dois números, calcule e mostre a subtração do primeiro pelo segundo. */

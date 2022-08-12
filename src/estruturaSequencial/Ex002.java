@@ -1,3 +1,5 @@
+package estruturaSequencial;
+
 import java.util.Scanner;
     /*Faça um programa que receba três números, calcule e mostre a multiplicação desses números */
 public class Ex002 {

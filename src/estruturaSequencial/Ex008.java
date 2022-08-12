@@ -1,3 +1,5 @@
+package estruturaSequencial;
+
 import java.util.Scanner;
 
     /*Faça um programa que receba o peso de uma pessoa em quilos, calcule e mostre o peso em gramas.*/

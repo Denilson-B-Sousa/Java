@@ -1,3 +1,5 @@
+package estruturaSequencial;
+
 import java.util.Scanner;
 /*Faça um programa que calcule e monte a tabela de um número digitado pelo usuário. */
 public class Ex013 {
